@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+scikit-learn
+scikit-image==0.21.0
+ImageHash
+scipy
+jupyter

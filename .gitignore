@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated outputs
+data/
+dataset/
+datasets/
+outputs/
+vtid2_portfolio_outputs/
+*.pt
+*.pth
+*.ckpt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
