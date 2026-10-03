@@ -1,5 +1,7 @@
 # Efficient Neural Network Architectures for Vehicle Type Classification in Intelligent Transportation Systems
 
+**Project author and sole implementer:** Mohammed Mahyoub.
+
 ### A Content-Audited, Leakage-Aware, and Efficiency-Focused Study Using VTID2
 
 This repository contains an MSc Artificial Intelligence portfolio project investigating neural network architectures for vehicle type classification using the **Vehicle Type Image Dataset Version 2 (VTID2)**.
