@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it using the metadata below."
+title: "Efficient Neural Network Architectures for Vehicle Type Classification in Intelligent Transportation Systems: A Content-Audited, Leakage-Aware, and Efficiency-Focused Study Using VTID2"
+type: software
+authors:
+  - family-names: Mahyoub
+    given-names: Mohammed
+    orcid: "https://orcid.org/0009-0003-5640-352X"
+    affiliation: "University of the West of England (UWE Bristol)"
+repository-code: "https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification"
+url: "https://mahyoub88.github.io/projects/proj-vtid2/"
+keywords:
+  - Intelligent Transportation Systems
+  - Vehicle Classification
+  - Convolutional Neural Networks
+  - Efficient AI
+  - Data Leakage
+  - Grad-CAM
+  - VTID2
+  - PyTorch

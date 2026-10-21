@@ -1,0 +1,13 @@
+{
+  "title": "Efficient Neural Network Architectures for Vehicle Type Classification Using VTID2",
+  "upload_type": "software",
+  "description": "A content-audited, leakage-aware and efficiency-focused study of vehicle type classification on the VTID2 image dataset. Compares an MLP baseline, a Standard CNN, an efficient depthwise-separable CNN and an efficient CNN with Squeeze-and-Excitation, with multi-seed evaluation, paired bootstrap uncertainty, computational-efficiency benchmarking, ablation and Grad-CAM explainability.",
+  "creators": [
+    {
+      "name": "Mahyoub, Mohammed",
+      "orcid": "0009-0003-5640-352X",
+      "affiliation": "University of the West of England (UWE Bristol)"
+    }
+  ],
+  "keywords": ["Intelligent Transportation Systems", "Vehicle Classification", "Convolutional Neural Networks", "Efficient AI", "Data Leakage", "Grad-CAM", "VTID2"]
+}

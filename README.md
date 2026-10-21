@@ -1,12 +1,22 @@
 # Efficient Neural Network Architectures for Vehicle Type Classification in Intelligent Transportation Systems
 
-**Project author and sole implementer:** Mohammed Mahyoub.
+[Read case study](https://mahyoub88.github.io/projects/proj-vtid2/) · [Project index](docs/PROJECTS.md) · [Engineering guide](docs/engineering-guide.md)
+
+**Project author and sole implementer:** Mohammed Mahyoub · [ORCID 0009-0003-5640-352X](https://orcid.org/0009-0003-5640-352X)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5640--352X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5640-352X)
 
 ### A Content-Audited, Leakage-Aware, and Efficiency-Focused Study Using VTID2
 
 This repository contains an MSc Artificial Intelligence portfolio project investigating neural network architectures for vehicle type classification using the **Vehicle Type Image Dataset Version 2 (VTID2)**.
 
 The study focuses on **data-quality auditing, leakage-aware evaluation, neural-network efficiency, and explainability** rather than accuracy alone.
+
+## Executed notebook preview
+
+![Illustrative Grad-CAM examples from the executed notebook](docs/overview/12-grad-cam-examples.jpg)
+
+*Illustrative Grad-CAM examples for the Standard CNN, Efficient CNN and Efficient CNN + SE, with predicted class and padding ratio. The complete figure set is in the [engineering guide](docs/engineering-guide.md).*
 
 ## Project Overview
 
@@ -55,7 +65,13 @@ The project examines:
 ├── VTID2_Efficient_Vehicle_Type_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── CITATION.cff
+├── .zenodo.json
+├── .gitignore
+└── docs/
+    ├── PROJECTS.md
+    ├── engineering-guide.md
+    └── overview/          # explanatory diagrams and executed-notebook figures
 ```
 
 ## Environment Used
@@ -103,7 +119,13 @@ The notebook uses fixed random seeds and a leakage-controlled grouping strategy.
 ## Author
 
 **Mohammed Mahyoub**  
-MSc Artificial Intelligence
+MSc Artificial Intelligence — University of the West of England (UWE Bristol)  
+ORCID: [0009-0003-5640-352X](https://orcid.org/0009-0003-5640-352X)  
+Portfolio: [mahyoub88.github.io](https://mahyoub88.github.io/) · LinkedIn: [mohammed-mahyoub](https://www.linkedin.com/in/mohammed-mahyoub/)
+
+## Citation
+
+If you reference this work, please use the metadata in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button).
 
 ## License
 
