@@ -9,5 +9,22 @@
       "affiliation": "University of the West of England (UWE Bristol)"
     }
   ],
-  "keywords": ["Intelligent Transportation Systems", "Vehicle Classification", "Convolutional Neural Networks", "Efficient AI", "Data Leakage", "Grad-CAM", "VTID2"]
+  "keywords": [
+    "Intelligent Transportation Systems",
+    "Vehicle Classification",
+    "Convolutional Neural Networks",
+    "Efficient AI",
+    "Data Leakage",
+    "Grad-CAM",
+    "VTID2"
+  ],
+  "license": "mit",
+  "version": "v1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://mahyoub88.github.io/projects/proj-vtid2/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
 }

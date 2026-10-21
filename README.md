@@ -66,6 +66,7 @@ The project examines:
 ├── README.md
 ├── requirements.txt
 ├── CITATION.cff
+├── LICENSE
 ├── .zenodo.json
 ├── .gitignore
 └── docs/
@@ -129,4 +130,4 @@ If you reference this work, please use the metadata in [`CITATION.cff`](CITATION
 
 ## License
 
-This repository is shared for educational and portfolio purposes. The VTID2 dataset remains subject to the terms of its original provider.
+The source code and notebook are released under the [MIT License](LICENSE). The VTID2 dataset is not included and remains subject to the terms of its original provider.

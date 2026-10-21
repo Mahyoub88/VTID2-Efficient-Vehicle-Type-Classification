@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you reference this work, please cite it using the metadata below."
 title: "Efficient Neural Network Architectures for Vehicle Type Classification in Intelligent Transportation Systems: A Content-Audited, Leakage-Aware, and Efficiency-Focused Study Using VTID2"
 type: software
+license: MIT
+version: "v1.0.0"
 authors:
   - family-names: Mahyoub
     given-names: Mohammed
