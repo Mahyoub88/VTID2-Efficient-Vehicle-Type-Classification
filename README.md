@@ -4,7 +4,7 @@
 
 **Project author and sole implementer:** Mohammed Mahyoub · [ORCID 0009-0003-5640-352X](https://orcid.org/0009-0003-5640-352X)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5640--352X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5640-352X)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23524700.svg)](https://doi.org/10.5281/zenodo.23524700) [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5640--352X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5640-352X)
 
 ### A Content-Audited, Leakage-Aware, and Efficiency-Focused Study Using VTID2
 
@@ -125,6 +125,8 @@ ORCID: [0009-0003-5640-352X](https://orcid.org/0009-0003-5640-352X)
 Portfolio: [mahyoub88.github.io](https://mahyoub88.github.io/) · LinkedIn: [mohammed-mahyoub](https://www.linkedin.com/in/mohammed-mahyoub/)
 
 ## Citation
+
+Archived on Zenodo: [https://doi.org/10.5281/zenodo.23524700](https://doi.org/10.5281/zenodo.23524700).
 
 If you reference this work, please use the metadata in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button).
 

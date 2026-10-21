@@ -8,7 +8,9 @@ This repository documents the implementation below.
 
 Developed and evaluated neural network architectures for vehicle type classification using the VTID2 image dataset. The evaluated architectures included an MLP, a standard CNN, an efficient depthwise-separable CNN, and an efficient CNN with Squeeze-and-Excitation.
 
-Presentation status: Public Repository · MSc Artificial Intelligence Research.
+Presentation status: Public Repository · Archived on Zenodo (DOI).
+
+DOI: [10.5281/zenodo.23524700](https://doi.org/10.5281/zenodo.23524700)
 
 Author: Mohammed Mahyoub · [ORCID 0009-0003-5640-352X](https://orcid.org/0009-0003-5640-352X)
 
